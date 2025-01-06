@@ -2,7 +2,7 @@
 "type": "micro",
 "wake_word": "komputer",
 "author": "Bartłomiej Biernacki",
-"website": "",
+"website": "https://github.com/pax0r/micro-wake-word-models",
 "model": "komputer.tflite",
 "trained_languages": [
 "pl"
